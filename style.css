@@ -1,0 +1,50 @@
+*{
+    /* width: 0px;
+    height: 0px; */
+    font-family: font-family: 'Playfair Display', serif;;
+}
+.first-section{
+    display: flex;
+    background-color:rgba(174, 147, 170, 0.6);
+    justify-content: center;
+    gap: 50px;
+
+}
+.writing-site{
+max-width: 500px;
+justify-content: center;
+margin-top: 110px;
+}
+.first-btn, .paragraph{
+    margin-top: 15px;
+}
+#heading{
+color: #323232;
+font-size: 50px;
+width: 708px;
+margin: 0px;
+}
+.paragraph{
+color: rgba(37, 36, 36, 0.6);
+font-size: 12px;
+line-height: 20px;
+width: 634px;
+}
+.first-btn{
+    padding: 20px 45px;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 1);
+}
+.first-btn a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+.picture-site {
+    height: 480px;
+    width: 520px;
+}
+.sectionOne-pic{
+    width: 450px;
+    height: 480px;
+}
+}
