@@ -233,7 +233,7 @@ h5 {
   overflow: hidden;
 } */
 .last {
-    background-image: url(/Rectangle\ 9.png);
+    background-image: url('./Rectangle\ 9.png');
   max-width: 1050px;
   max-height: 500px;
   align-items: center;
