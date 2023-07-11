@@ -142,7 +142,7 @@ h5 {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  background-color:#eba0d859;
+  background-color: #eba0d859;
 }
 
 .img {
@@ -185,7 +185,7 @@ h5 {
   margin-top: 0px;
 }
 .section-four-writing > h2 {
-  color:#d125a6;
+  color: #d125a6;
   text-align: center;
   font-size: 35px;
   margin: 0px;
@@ -195,4 +195,57 @@ h5 {
   text-align: center;
   font-size: 14px;
   margin: 18px 0px;
+}
+.last-part {
+  display: flex;
+  flex-direction: column;
+  height: 374px;
+  width: 772px;
+  align-items: center;
+  justify-content: center;
+  margin: 100px 140px;
+}
+.last-part > h2 p input button {
+  align-items: center;
+}
+.last-part > h2 {
+  color: #272727;
+  font-size: 35px;
+  margin: 0px;
+}
+.last-part p {
+  color: rgba(64, 63, 63, 0.861);
+  font-size: 15px;
+  font-style: oblique;
+  font-family: "Alegreya", serif;
+}
+.last-part input {
+  width: 400px;
+  height: 40px;
+  display: block;
+}
+/* .last>div{
+  background-image: url('/Rectangle\ 9.png') hight;
+  width: 1050px;
+  height: 500px;
+  background-size: cover;
+  background-color: aquamarine;
+  overflow: hidden;
+} */
+.last {
+  max-width: 1050px;
+  max-height: 500px;
+  align-items: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 100px 140px;
+  /* text-align: center;
+  justify-content: center; */
+}
+.btn-one input{
+    display: flex;
+    flex-direction: column;
+}
+.btn-one{
+ 
 }
