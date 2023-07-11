@@ -174,6 +174,9 @@ h5 {
   text-align: center;
   margin-top: 10;
 }
+.section-four{
+  margin-top: 100px;
+}
 .insta-img {
   width: 250px;
   height: 300px;
@@ -195,6 +198,7 @@ h5 {
   text-align: center;
   font-size: 14px;
   margin: 18px 0px;
+  
 }
 .last-part {
   display: flex;
@@ -224,14 +228,6 @@ h5 {
   height: 40px;
   display: block;
 }
-/* .last>div{
-  background-image: url('/Rectangle\ 9.png') hight;
-  width: 1050px;
-  height: 500px;
-  background-size: cover;
-  background-color: aquamarine;
-  overflow: hidden;
-} */
 .last {
     background-image: url('./Rectangle\ 9.png');
   max-width: 1050px;
