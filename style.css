@@ -233,19 +233,13 @@ h5 {
   overflow: hidden;
 } */
 .last {
+    background-image: url(/Rectangle\ 9.png);
   max-width: 1050px;
   max-height: 500px;
   align-items: center;
   background-size: contain;
   background-repeat: no-repeat;
   margin: 100px 140px;
-  /* text-align: center;
-  justify-content: center; */
-}
-.btn-one input{
-    display: flex;
-    flex-direction: column;
-}
-.btn-one{
- 
+  text-align: center;
+  justify-content: center;
 }
